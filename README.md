@@ -6,12 +6,12 @@ Falling off the platform will lead to the player respawning at the center of the
 
 ## Controls
 
-W - Move forward
-A - Move right
-S - Move left
-D - Move backward
-SPACEBAR - Jump
-ESC - Exit
+W - Move forward  
+A - Move right  
+S - Move left  
+D - Move backward  
+SPACEBAR - Jump  
+ESC - Exit    
 
-Look around by moving your mouse.
-Zoom in/out by scrolling.
+Look around by moving your mouse.  
+Zoom in/out by scrolling.  
