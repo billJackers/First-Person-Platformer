@@ -11,7 +11,6 @@ A - Move right
 S - Move left  
 D - Move backward  
 SPACEBAR - Jump  
-ESC - Exit    
 
 Look around by moving your mouse.  
 Zoom in/out by scrolling.  
