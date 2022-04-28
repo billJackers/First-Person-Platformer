@@ -1,4 +1,4 @@
-# First-Person-Platformer
+# First Person Platformer
 
 ## Description
 A program where a player can move and jump around on a platform in first person. Made with OpenGL.
@@ -15,3 +15,4 @@ ESC - Exit
 
 Look around by moving your mouse.  
 Zoom in/out by scrolling.  
+
