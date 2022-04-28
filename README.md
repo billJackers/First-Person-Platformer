@@ -11,7 +11,8 @@ A - Move right
 S - Move left  
 D - Move backward  
 SPACEBAR - Jump  
-ESC - Exit    
+ESC - Exit  
+F - Toggle fullscreen
 
 Look around by moving your mouse.  
 Zoom in/out by scrolling.  
